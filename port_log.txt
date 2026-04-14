@@ -1,0 +1,5 @@
+2026-04-14 14:50:37 | Port 1 | DOWN | MODIFIED | Failures: 4
+2026-04-14 15:01:29 | Port 1 | DOWN | DELETED | Failures: 5
+2026-04-14 15:01:29 | Port 2 | UP   | DELETED | Failures: 5
+2026-04-14 15:01:29 | Port 3 | UP   | MODIFIED | Failures: 5
+2026-04-14 15:01:29 | Port 3 | UP   | DELETED | Failures: 5
